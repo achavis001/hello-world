@@ -1,2 +1,1 @@
-# hello-world
-Repository 1
+I'm just diving into learning how to do all of this.
